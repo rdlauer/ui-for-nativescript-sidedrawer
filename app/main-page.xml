@@ -4,9 +4,9 @@
 		<ActionItem tap="toggleDrawer" ios.systemIcon="4" android.systemIcon="ic_menu_btn_add" ios.position="left" />
 	</ActionBar>
 
-	<sd:RadSideDrawer id="sideDrawer">
+	<sd:RadSideDrawer id="sideDrawer" drawerTransition="FadeTransition">
 		<!-- drawerLocation="Bottom" -->
-		<!-- drawerTransition="PushTransition" -->
+		<!-- drawerTransition="FadeTransition" -->
 
 		<!-- side drawer content -->
 		<sd:RadSideDrawer.drawerContent>
