@@ -1,4 +1,4 @@
-<Page xmlns="http://schemas.nativescript.org/tns.xsd" xmlns:sd="nativescript-telerik-ui-pro/sidedrawer" loaded="pageLoaded">
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" xmlns:sd="nativescript-telerik-ui-pro/sidedrawer"   xmlns:shared="shared" loaded="pageLoaded">
 
 	<ActionBar title="RadSideDrawer Demo" class="action-bar">
 		<ActionItem tap="toggleDrawer" ios.systemIcon="4" android.systemIcon="ic_menu_btn_add" ios.position="left" />
