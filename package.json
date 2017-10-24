@@ -5,17 +5,17 @@
   "repository": "<fill-your-repository-here>",
   "nativescript": {
     "id": "org.nativescript.sidedrawer",
-    "tns-ios": {
-      "version": "2.4.0"
-    },
     "tns-android": {
-      "version": "2.4.1"
+      "version": "3.2.0"
+    },
+    "tns-ios": {
+      "version": "3.2.0"
     }
   },
   "dependencies": {
-    "nativescript-telerik-ui-pro": "file:../../Telerik/UI for NativeScript 1.5.1.184/Packages/nativescript-ui-pro.tgz",
+    "nativescript-pro-ui": "^3.1.4",
     "nativescript-theme-core": "^0.2.1",
-    "tns-core-modules": "2.4.3"
+    "tns-core-modules": "^3.2.0"
   },
   "devDependencies": {
     "babel-traverse": "6.21.0",
