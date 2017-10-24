@@ -22,6 +22,7 @@ components that have the btn class name.
 
 .sidedrawer-list-item-text {
 	padding: 20 0 20 20;
+	border-width: 0;
 }
 
 /*
